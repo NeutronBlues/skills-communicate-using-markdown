@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Frigate";
 ```
+- [ ] Build Frigate at shipyard
+- [ ] Safety check Frigate, this includes looking over the reactor
+- [ ] Launch Frigate from shipyard
